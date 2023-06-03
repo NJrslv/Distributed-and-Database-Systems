@@ -4,4 +4,8 @@
 
 - [Labs](https://pdos.csail.mit.edu/6.824/)
 
+
 - [Book](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/?redirectFromSmile=1)
+
+
+- [Database Systems](https://www.youtube.com/watch?v=uikbtpVZS2s&list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf)

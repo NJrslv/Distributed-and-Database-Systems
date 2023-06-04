@@ -1,3 +1,4 @@
+// set tabstop=4
 package main
 
 import (

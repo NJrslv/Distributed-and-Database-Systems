@@ -1,4 +1,4 @@
-# Links
+## Links
 - [Lectures Distributed Systems MIT](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 
 
@@ -11,6 +11,10 @@
 - [Database Systems CMU](https://www.youtube.com/watch?v=uikbtpVZS2s&list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf)
 
 
-# Schedule + Papers + Notes
+## Schedule + Papers + Notes
 
 - [Schedule Distributed Systems MIT](https://pdos.csail.mit.edu/6.824/schedule.html)
+
+## CMU seminars
+
+- [Seminars](https://db.cs.cmu.edu/seminar2022/)

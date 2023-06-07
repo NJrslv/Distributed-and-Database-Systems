@@ -15,6 +15,7 @@
 
 - [Schedule Distributed Systems MIT](https://pdos.csail.mit.edu/6.824/schedule.html)
 
-## CMU seminars
+## CMU seminars + Assignments
 
 - [Seminars](https://db.cs.cmu.edu/seminar2022/)
+- [Assignments](https://15445.courses.cs.cmu.edu/fall2022/assignments.html)

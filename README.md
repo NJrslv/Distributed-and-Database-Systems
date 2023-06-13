@@ -18,4 +18,4 @@
 ## CMU seminars + Assignments
 
 - [Seminars](https://db.cs.cmu.edu/seminar2022/)
-- [Assignments](https://15445.courses.cs.cmu.edu/fall2022/assignments.html)
+- [Assignments](https://15445.courses.cs.cmu.edu/spring2023/assignments.html)

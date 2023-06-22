@@ -5,7 +5,7 @@
 
 ## Description
 
-- In this dir, you will find a summary and details of the tasks that have been completed. Each task is accompanied by its corresponding source code.
+- In this dir, you will find a [summary](https://github.com/NJrslv/Distributed-and-Database-Systems/blob/main/CMU-assignments/History.md) and details of the tasks that have been completed. Each task is accompanied by its corresponding source code.
 
 ## Purpose of bustub repo
 
@@ -14,4 +14,4 @@
 
 ## Main links
 - [Source code](https://github.com/NJrslv/bustub)
-- [Assignments(Projects)](https://15445.courses.cs.cmu.edu/fall2022/assignments.html)
+- [History](https://github.com/NJrslv/Distributed-and-Database-Systems/blob/main/CMU-assignments/History.md)

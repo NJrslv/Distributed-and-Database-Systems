@@ -9,3 +9,6 @@
 
 - [Task#2](https://github.com/NJrslv/bustub/blob/master/src/primer/trie_store.cpp)
   - [Implemented Concurrent Key-Value Store](https://github.com/NJrslv/bustub/commit/2b75fc86f47196bd3f4695e14bec329678b8b239)
+ 
+- Task#4 ([string_expression](https://github.com/NJrslv/bustub/blob/master/src/include/execution/expressions/string_expression.h), [function planner](https://github.com/NJrslv/bustub/blob/master/src/planner/plan_func_call.cpp))
+  - [Implemented Upper Lower SQl functions](https://github.com/NJrslv/bustub/commit/4c2b2e479f9f2a418f62b716cd41d82f2dd1b606)

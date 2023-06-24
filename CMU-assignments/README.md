@@ -9,7 +9,7 @@
 
 ## Purpose of bustub repo
 
-- The purpose of forked [bustub](https://github.com/NJrslv/bustub) repository is to serve as a starting point for various assignments and projects. The tasks are structured in a way that encourages the integration of new features into this project, providing an opportunity to apply and demonstrate understanding of the concepts covered in CMU's curriculum.
+- The purpose of forked [bustub](https://github.com/NJrslv/bustub) repository is to serve as a starting point(API) for various assignments and projects. The tasks are structured in a way that encourages the integration of new features into this project, providing an opportunity to apply and demonstrate understanding of the concepts covered in CMU's curriculum.
 
 
 ## Main links

@@ -15,3 +15,4 @@
 ## Main links
 - [Source code](https://github.com/NJrslv/bustub)
 - [History](https://github.com/NJrslv/Distributed-and-Database-Systems/blob/main/CMU-assignments/History.md)
+- [Specification](https://15445.courses.cs.cmu.edu/spring2023/assignments.html)

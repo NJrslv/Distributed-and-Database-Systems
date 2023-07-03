@@ -18,4 +18,4 @@
  [Specification](https://15445.courses.cs.cmu.edu/spring2023/project1/)
  - Task#1 ([lru_k_replacer.h](https://github.com/NJrslv/bustub/blob/master/src/include/buffer/lru_k_replacer.h), [lru_k_replacer.cpp](https://github.com/NJrslv/bustub/blob/master/src/buffer/lru_k_replacer.cpp))
    
-    - [Implemented LRU-K Replacement Policy for Buffer Pool Manager](https://github.com/NJrslv/bustub/commit/6326217bec9dddfc577733005d537540b19b08d5)
+    - [Implemented non-thread-safe LRU-K Replacement Policy for Buffer Pool Manager](https://github.com/NJrslv/bustub/commit/6326217bec9dddfc577733005d537540b19b08d5)

@@ -12,3 +12,10 @@
  
 - Task#4 ([string_expression](https://github.com/NJrslv/bustub/blob/master/src/include/execution/expressions/string_expression.h), [function planner](https://github.com/NJrslv/bustub/blob/master/src/planner/plan_func_call.cpp))
   - [Implemented Upper Lower SQl functions](https://github.com/NJrslv/bustub/commit/4c2b2e479f9f2a418f62b716cd41d82f2dd1b606)
+
+
+ ### Project #1 - Buffer Pool Manager
+ [Specification](https://15445.courses.cs.cmu.edu/spring2023/project1/)
+ - Task#1 ([lru_k_replacer.h](https://github.com/NJrslv/bustub/blob/master/src/include/buffer/lru_k_replacer.h), [lru_k_replacer.cpp](https://github.com/NJrslv/bustub/blob/master/src/buffer/lru_k_replacer.cpp))
+   
+    - [Implemented LRU-K Replacement Policy for Buffer Pool Manager](https://github.com/NJrslv/bustub/commit/6326217bec9dddfc577733005d537540b19b08d5)

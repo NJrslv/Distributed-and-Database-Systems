@@ -1,7 +1,7 @@
 ## Overview
 
 - This dir(`Distributed-and-Database-Systems/CMU-assignments/`) contains a collection of completed tasks along with their [source code](https://github.com/NJrslv/bustub).
-- For each change, links will be added to showcase the additions made for corresponding assignments.
+- For each change, links will be added in [History](https://github.com/NJrslv/Distributed-and-Database-Systems/blob/main/CMU-assignments/History.md) to showcase the additions made for corresponding assignments.
 
 ## Description
 

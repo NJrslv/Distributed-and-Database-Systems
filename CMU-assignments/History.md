@@ -19,3 +19,4 @@
  - Task#1 ([lru_k_replacer.h](https://github.com/NJrslv/bustub/blob/master/src/include/buffer/lru_k_replacer.h), [lru_k_replacer.cpp](https://github.com/NJrslv/bustub/blob/master/src/buffer/lru_k_replacer.cpp))
    
     - [Implemented non-thread-safe LRU-K Replacement Policy for Buffer Pool Manager](https://github.com/NJrslv/bustub/commit/6326217bec9dddfc577733005d537540b19b08d5)
+    - [Implemented thread-safe LRU-K Replacement Policy for Buffer Pool Manager](https://github.com/NJrslv/bustub/commit/f9d5b241474c17fac266b40bb3c4270130fca364)

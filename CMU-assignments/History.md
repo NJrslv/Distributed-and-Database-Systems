@@ -20,3 +20,6 @@
    
     - [Implemented non-thread-safe LRU-K Replacement Policy for Buffer Pool Manager](https://github.com/NJrslv/bustub/commit/6326217bec9dddfc577733005d537540b19b08d5)
     - [Implemented thread-safe LRU-K Replacement Policy for Buffer Pool Manager](https://github.com/NJrslv/bustub/commit/f9d5b241474c17fac266b40bb3c4270130fca364)
+
+ - [Task#2](https://github.com/NJrslv/bustub/blob/master/src/buffer/buffer_pool_manager.cpp)
+    - [Implemented Buffer Pool Manager](https://github.com/NJrslv/bustub/commit/b39b6e8dac0c6298844fbbb14c079c20996629fa)

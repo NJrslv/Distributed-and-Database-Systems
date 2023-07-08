@@ -23,3 +23,6 @@
 
  - [Task#2](https://github.com/NJrslv/bustub/blob/master/src/buffer/buffer_pool_manager.cpp)
     - [Implemented Buffer Pool Manager](https://github.com/NJrslv/bustub/commit/b39b6e8dac0c6298844fbbb14c079c20996629fa)
+
+ - [Task#3](https://github.com/NJrslv/bustub/blob/master/src/storage/page/page_guard.cpp)
+    - [Implemented Page Guards](https://github.com/NJrslv/bustub/commit/07b9cd9ac0bc186706684fdcf3cc50632a508cc9)
